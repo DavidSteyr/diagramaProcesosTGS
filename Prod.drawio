@@ -1,9 +1,192 @@
-<mxfile host="app.diagrams.net" modified="2023-06-15T06:40:00.051Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/114.0" version="21.4.0" etag="DswsXIx0QGnKAWimzOde" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-15T06:40:49.970Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/114.0" etag="AY2Y7sJ6Htca8ZGr_9d7" version="21.4.0" type="github">
   <diagram name="Página-1" id="sO33ED8RJBw0cfa8lGn8">
-    <mxGraphModel>
+    <mxGraphModel dx="1442" dy="1103" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="QeLzfjx_3LjI25QmZ-LT-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="QeLzfjx_3LjI25QmZ-LT-3" target="QeLzfjx_3LjI25QmZ-LT-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QeLzfjx_3LjI25QmZ-LT-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QeLzfjx_3LjI25QmZ-LT-3" target="QeLzfjx_3LjI25QmZ-LT-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QeLzfjx_3LjI25QmZ-LT-3" value="&lt;div&gt;Produccion&lt;/div&gt;&lt;div&gt;e&lt;br&gt;&lt;/div&gt;&lt;div&gt;Instalacion&lt;/div&gt;&lt;div&gt;entrega&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#279159;fontSize=15;fontStyle=1;fontColor=#FFFFFF;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="854" y="177" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QeLzfjx_3LjI25QmZ-LT-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="QeLzfjx_3LjI25QmZ-LT-5" target="QeLzfjx_3LjI25QmZ-LT-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QeLzfjx_3LjI25QmZ-LT-5" value="&lt;div&gt;Seleccion &lt;br&gt;&lt;/div&gt;&lt;div&gt;de materias necesarias&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#978F9C;strokeColor=#000000;gradientColor=none;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="1012" y="142" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QeLzfjx_3LjI25QmZ-LT-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="QeLzfjx_3LjI25QmZ-LT-7" target="QeLzfjx_3LjI25QmZ-LT-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QeLzfjx_3LjI25QmZ-LT-7" value="&lt;div&gt;Asignacion&lt;/div&gt;&lt;div&gt;de trabajadores&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#978F9C;fontColor=#FFFFFF;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1012" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QeLzfjx_3LjI25QmZ-LT-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QeLzfjx_3LjI25QmZ-LT-12" target="QeLzfjx_3LjI25QmZ-LT-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QeLzfjx_3LjI25QmZ-LT-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="QeLzfjx_3LjI25QmZ-LT-12" target="QeLzfjx_3LjI25QmZ-LT-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QeLzfjx_3LjI25QmZ-LT-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="QeLzfjx_3LjI25QmZ-LT-12" target="QeLzfjx_3LjI25QmZ-LT-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QeLzfjx_3LjI25QmZ-LT-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="QeLzfjx_3LjI25QmZ-LT-12" target="QeLzfjx_3LjI25QmZ-LT-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QeLzfjx_3LjI25QmZ-LT-12" value="&lt;div&gt;Planificacion&lt;/div&gt;&lt;div&gt;del mueble&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#3D334A;fontColor=#FFFFFF;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1179" y="183" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QeLzfjx_3LjI25QmZ-LT-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QeLzfjx_3LjI25QmZ-LT-14" target="QeLzfjx_3LjI25QmZ-LT-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QeLzfjx_3LjI25QmZ-LT-14" value="Comienza&lt;div&gt;fabricacion&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#3D334A;fontColor=#FFFFFF;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1338" y="183" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QeLzfjx_3LjI25QmZ-LT-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QeLzfjx_3LjI25QmZ-LT-16" target="QeLzfjx_3LjI25QmZ-LT-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QeLzfjx_3LjI25QmZ-LT-16" value="&lt;div&gt;Finalizacion&lt;/div&gt;&lt;div&gt;producto&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#3D334A;fontColor=#FFFFFF;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1490" y="183" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QeLzfjx_3LjI25QmZ-LT-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QeLzfjx_3LjI25QmZ-LT-18" target="QeLzfjx_3LjI25QmZ-LT-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QeLzfjx_3LjI25QmZ-LT-18" value="&lt;div&gt;Instalacion &lt;br&gt;&lt;/div&gt;&lt;div&gt;o entrega&lt;br&gt;&lt;/div&gt;&lt;div&gt;Producto&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#3D334A;fontColor=#FFFFFF;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1490" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QeLzfjx_3LjI25QmZ-LT-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QeLzfjx_3LjI25QmZ-LT-20" target="QeLzfjx_3LjI25QmZ-LT-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QeLzfjx_3LjI25QmZ-LT-20" value="&lt;div&gt;Finalizacion&lt;/div&gt;&lt;div&gt;de la obra&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#261330;fontColor=#FFFFFF;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1490" y="399" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QeLzfjx_3LjI25QmZ-LT-21" value="evaluación financiera" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#7D0C6E;strokeColor=#000000;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="1377" y="409" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QeLzfjx_3LjI25QmZ-LT-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="QeLzfjx_3LjI25QmZ-LT-27" target="QeLzfjx_3LjI25QmZ-LT-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QeLzfjx_3LjI25QmZ-LT-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="QeLzfjx_3LjI25QmZ-LT-27" target="QeLzfjx_3LjI25QmZ-LT-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QeLzfjx_3LjI25QmZ-LT-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="QeLzfjx_3LjI25QmZ-LT-27" target="QeLzfjx_3LjI25QmZ-LT-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QeLzfjx_3LjI25QmZ-LT-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="QeLzfjx_3LjI25QmZ-LT-27" target="QeLzfjx_3LjI25QmZ-LT-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QeLzfjx_3LjI25QmZ-LT-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="QeLzfjx_3LjI25QmZ-LT-27" target="QeLzfjx_3LjI25QmZ-LT-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QeLzfjx_3LjI25QmZ-LT-27" value="&lt;div&gt;Seleccion &lt;br&gt;&lt;/div&gt;&lt;div&gt;de materias necesarias&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#977DB8;fontColor=#ffffff;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1025" y="766" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QeLzfjx_3LjI25QmZ-LT-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="QeLzfjx_3LjI25QmZ-LT-30" target="QeLzfjx_3LjI25QmZ-LT-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QeLzfjx_3LjI25QmZ-LT-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="QeLzfjx_3LjI25QmZ-LT-30" target="QeLzfjx_3LjI25QmZ-LT-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QeLzfjx_3LjI25QmZ-LT-30" value="&lt;div&gt;Asignacion&lt;/div&gt;&lt;div&gt;de trabajadores&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#977DB8;fontColor=#ffffff;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1025" y="854" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QeLzfjx_3LjI25QmZ-LT-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QeLzfjx_3LjI25QmZ-LT-34" target="QeLzfjx_3LjI25QmZ-LT-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QeLzfjx_3LjI25QmZ-LT-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="QeLzfjx_3LjI25QmZ-LT-34" target="QeLzfjx_3LjI25QmZ-LT-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QeLzfjx_3LjI25QmZ-LT-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="QeLzfjx_3LjI25QmZ-LT-34" target="QeLzfjx_3LjI25QmZ-LT-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QeLzfjx_3LjI25QmZ-LT-34" value="&lt;div&gt;Planificacion&lt;/div&gt;&lt;div&gt;del mueble&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#413069;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="1193" y="807" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QeLzfjx_3LjI25QmZ-LT-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QeLzfjx_3LjI25QmZ-LT-37" target="QeLzfjx_3LjI25QmZ-LT-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QeLzfjx_3LjI25QmZ-LT-36" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=2;" edge="1" parent="1" source="QeLzfjx_3LjI25QmZ-LT-37" target="QeLzfjx_3LjI25QmZ-LT-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QeLzfjx_3LjI25QmZ-LT-37" value="Comienza&lt;div&gt;fabricacion&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#2A2333;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="1351" y="807" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QeLzfjx_3LjI25QmZ-LT-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QeLzfjx_3LjI25QmZ-LT-39" target="QeLzfjx_3LjI25QmZ-LT-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QeLzfjx_3LjI25QmZ-LT-39" value="&lt;div&gt;Finalizacion&lt;/div&gt;&lt;div&gt;producto&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#2A2333;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="1503" y="807" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QeLzfjx_3LjI25QmZ-LT-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QeLzfjx_3LjI25QmZ-LT-41" target="QeLzfjx_3LjI25QmZ-LT-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QeLzfjx_3LjI25QmZ-LT-41" value="&lt;div&gt;Instalacion&lt;/div&gt;&lt;div&gt;Producto&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#2A2333;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="1503" y="904" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QeLzfjx_3LjI25QmZ-LT-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QeLzfjx_3LjI25QmZ-LT-43" target="QeLzfjx_3LjI25QmZ-LT-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QeLzfjx_3LjI25QmZ-LT-43" value="&lt;div&gt;Finalizacion&lt;/div&gt;&lt;div&gt;de la obra&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#261330;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="1503" y="1023" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QeLzfjx_3LjI25QmZ-LT-44" value="&lt;div&gt;En total por las dos laminas, la herrajeria y los elementos de sujecion&lt;/div&gt;&lt;div&gt;se hizo un gasto de 900 mil pesos&lt;br&gt; &lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;fillColor=#7D0C6E;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="1387" y="993" width="95" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="QeLzfjx_3LjI25QmZ-LT-45" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="QeLzfjx_3LjI25QmZ-LT-46" target="QeLzfjx_3LjI25QmZ-LT-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QeLzfjx_3LjI25QmZ-LT-46" value="&lt;div&gt;Se deduce un aproximado&lt;/div&gt;&lt;div&gt;de 100 mil&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#58496B;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="1208" y="715" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QeLzfjx_3LjI25QmZ-LT-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="QeLzfjx_3LjI25QmZ-LT-49" target="QeLzfjx_3LjI25QmZ-LT-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QeLzfjx_3LjI25QmZ-LT-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="QeLzfjx_3LjI25QmZ-LT-49" target="QeLzfjx_3LjI25QmZ-LT-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QeLzfjx_3LjI25QmZ-LT-49" value="&lt;div&gt;Producto:&lt;/div&gt;&lt;div&gt;despensa para&lt;/div&gt;&lt;div&gt;cocina de 200x95cm&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="856" y="801" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QeLzfjx_3LjI25QmZ-LT-50" value="Ejemplo:" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="853" y="734" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QeLzfjx_3LjI25QmZ-LT-51" value="2 Laminas&lt;div&gt;Melamina&lt;/div&gt;&lt;div&gt;RH&lt;/div&gt;&lt;div&gt;Blanco&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="975" y="662" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QeLzfjx_3LjI25QmZ-LT-52" value="6 Bisagras&lt;div&gt;y&lt;br&gt;&lt;/div&gt;&lt;div&gt;8 Rieles&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="600" width="60" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="QeLzfjx_3LjI25QmZ-LT-53" value="&lt;div&gt;Tornillos:&lt;/div&gt;&lt;div&gt;48- bisagra&lt;/div&gt;&lt;div&gt;74- (3/4)pulg&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1127" y="676" width="70" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="QeLzfjx_3LjI25QmZ-LT-54" value="Se asignan 2 trabajadores" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1055" y="953" width="60" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="QeLzfjx_3LjI25QmZ-LT-55" value="&lt;div&gt;Analisis&lt;/div&gt;&lt;div&gt;de gastos&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#A199A6;fontColor=#FFFFFF;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1167" y="113" width="65" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="QeLzfjx_3LjI25QmZ-LT-56" value="Evaluacion de tiempo" style="text;html=1;strokeColor=#000000;fillColor=#A199A6;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="1248" y="113" width="65" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="QeLzfjx_3LjI25QmZ-LT-57" value="&lt;div&gt;Tiempo estimado:&lt;/div&gt;&lt;div&gt;3-4 dias&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#58496B;rounded=1;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="1208" y="634" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="QeLzfjx_3LjI25QmZ-LT-58" value="Se corta la lamina en piezas, cada una de respectivos tamaños y formas con respecto al mueble" style="whiteSpace=wrap;html=1;fillColor=#58496B;rounded=1;strokeColor=#000000;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="1191" y="899" width="125" height="86" as="geometry" />
+        </mxCell>
+        <mxCell id="QeLzfjx_3LjI25QmZ-LT-59" value="&lt;div&gt;Preparacion &lt;br&gt;&lt;/div&gt;&lt;div&gt;de los materiales&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#3D334A;rounded=1;fontColor=#FFFFFF;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1180" y="286" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QeLzfjx_3LjI25QmZ-LT-60" value="&lt;div&gt;Las piezas ya cortadas permiten ensamblar el mueble, la estructura se puede armar a base de los tornilos de pulgada y media, luego nos queda la estructura base de la despensa, tanto interna como externa&lt;/div&gt;&lt;div&gt;se instalan los rieles para hacer unas gavetas en la parte inferior, se ajustan las repisas de la parte interna y se perforan los laterales interiores para instalar las bisagras y posteriormente montar las puertas&lt;/div&gt;&lt;div&gt;de ultimo se calibran las bisagras&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#2A2333;rounded=1;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="1353" y="600" width="260" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="QeLzfjx_3LjI25QmZ-LT-61" value="&lt;div&gt;6 patas mueble&lt;/div&gt;&lt;div&gt;graduables&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1089" y="595" width="60" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
