@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-15T05:27:23.420Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/114.0" etag="0-q4mNdwKgsYDPomO4av" version="21.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-15T05:30:09.861Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/114.0" etag="TtS_kIwRAR3kO1CVz7ZL" version="21.4.0" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1134" dy="551" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -485,7 +485,7 @@
           <mxGeometry x="1480" y="326" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="njqpp_BXz_OFNDyBb1AA-418" value="evaluación financiera" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1367" y="335" width="90" height="40" as="geometry" />
+          <mxGeometry x="1367" y="336" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="njqpp_BXz_OFNDyBb1AA-441" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" source="njqpp_BXz_OFNDyBb1AA-442" target="njqpp_BXz_OFNDyBb1AA-447" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry relative="1" as="geometry" />
@@ -553,8 +553,8 @@
         <mxCell id="njqpp_BXz_OFNDyBb1AA-455" value="&lt;div&gt;Finalizacion&lt;/div&gt;&lt;div&gt;de la obra&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#261330;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1493" y="828" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="njqpp_BXz_OFNDyBb1AA-456" value="En total por las dos laminas, " style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1380" y="837" width="90" height="40" as="geometry" />
+        <mxCell id="njqpp_BXz_OFNDyBb1AA-456" value="&lt;div&gt;En total por las dos laminas, la herrajeria y los elementos de sujecion&lt;/div&gt;&lt;div&gt;se hizo un gasto de 900 mil pesos&lt;br&gt; &lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1377" y="798" width="95" height="120" as="geometry" />
         </mxCell>
         <mxCell id="njqpp_BXz_OFNDyBb1AA-495" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="njqpp_BXz_OFNDyBb1AA-458" target="njqpp_BXz_OFNDyBb1AA-494">
           <mxGeometry relative="1" as="geometry" />
@@ -568,7 +568,7 @@
         <mxCell id="njqpp_BXz_OFNDyBb1AA-469" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="njqpp_BXz_OFNDyBb1AA-460" target="njqpp_BXz_OFNDyBb1AA-444">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="njqpp_BXz_OFNDyBb1AA-460" value="&lt;div&gt;Producto:&lt;/div&gt;&lt;div&gt;despensa para&lt;/div&gt;&lt;div&gt;cocina de 200x95&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="njqpp_BXz_OFNDyBb1AA-460" value="&lt;div&gt;Producto:&lt;/div&gt;&lt;div&gt;despensa para&lt;/div&gt;&lt;div&gt;cocina de 200x95cm&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="846" y="606" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="njqpp_BXz_OFNDyBb1AA-461" value="Ejemplo:" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
