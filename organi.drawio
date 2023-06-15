@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-15T21:30:43.912Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/114.0" etag="jaUHkB30Oe3_O3AwNExk" version="21.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-15T21:34:49.073Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/114.0" etag="utXh7RoOHwFbkPzNyYTu" version="21.4.0" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="794" dy="345" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -19,7 +19,7 @@
           <mxGeometry x="276" y="420" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="fd2rfv2mPa3jeMTykctJ-12" value="Obreros" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="387" y="424" width="80" height="40" as="geometry" />
+          <mxGeometry x="387" y="421" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fd2rfv2mPa3jeMTykctJ-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=ERmany;endFill=0;" edge="1" parent="1" source="fd2rfv2mPa3jeMTykctJ-18" target="fd2rfv2mPa3jeMTykctJ-12">
           <mxGeometry relative="1" as="geometry" />
@@ -28,19 +28,16 @@
           <mxGeometry x="339" y="326" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fd2rfv2mPa3jeMTykctJ-24" value="&lt;div&gt;Asistente&lt;/div&gt;&lt;div&gt;de jefe&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="498" y="410" width="120" height="60" as="geometry" />
+          <mxGeometry x="499" y="419" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fd2rfv2mPa3jeMTykctJ-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.503;exitY=0.967;exitDx=0;exitDy=0;exitPerimeter=0;endArrow=ERmany;endFill=0;" edge="1" parent="1" source="fd2rfv2mPa3jeMTykctJ-3" target="fd2rfv2mPa3jeMTykctJ-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fd2rfv2mPa3jeMTykctJ-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=ERmany;endFill=0;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="552" y="383" as="sourcePoint" />
-            <mxPoint x="556" y="410" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="fd2rfv2mPa3jeMTykctJ-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=ERmany;endFill=0;" edge="1" parent="1" source="fd2rfv2mPa3jeMTykctJ-27" target="fd2rfv2mPa3jeMTykctJ-24">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fd2rfv2mPa3jeMTykctJ-27" value="Area de ventas" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="496" y="326" width="120" height="60" as="geometry" />
+          <mxGeometry x="499" y="326" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fd2rfv2mPa3jeMTykctJ-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.503;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;endArrow=ERmany;endFill=0;" edge="1" parent="1" source="fd2rfv2mPa3jeMTykctJ-3" target="fd2rfv2mPa3jeMTykctJ-27">
           <mxGeometry relative="1" as="geometry" />
