@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-15T22:01:51.146Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/114.0" etag="Y8HH7wk7H2J4k-xUluqA" version="21.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-16T01:12:59.644Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/114.0" etag="_DH_VZSWaoPajUkSjI3W" version="21.4.0" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="794" dy="386" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -48,7 +48,7 @@
         <mxCell id="fd2rfv2mPa3jeMTykctJ-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.957;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=ERmany;endFill=0;startArrow=ERmany;startFill=0;" edge="1" parent="1" source="fd2rfv2mPa3jeMTykctJ-33" target="fd2rfv2mPa3jeMTykctJ-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fd2rfv2mPa3jeMTykctJ-33" value="Departamento de Abastecimiento" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fd2rfv2mPa3jeMTykctJ-33" value="Departamento de Abastecimiento" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#18141D;strokeColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="578" y="320" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
